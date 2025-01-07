@@ -1,15 +1,16 @@
-Hello.  THis is the first project I have created.  I wanted to test my data analysis skills I have been learning, and I was inspired by my wife to do this project.  I Have anoter Python program I wrote to generate random numbers for the major multi-state lotteries.  She suggested I look at the winning numbers and see what are the most common ones drawn.  
+Hello.  This is the first project I have created.  I wanted to test my data analysis skills I have been learning, and I was inspired by my wife to do this project.  I Have another Python program I wrote to generate random numbers for the major multi-state lotteries.  She suggested I look at the winning numbers and see what the most common ones are drawn.  
 
-I used the dataset at this link as the data for my reserch:
+I used the dataset at this link as the data for my research:
 https://www.kaggle.com/datasets/aspillai/megamillions-winning-numbers-2017-to-2024
 
-I have included in this repository the code I wrote, and the bar graphs I generated for each white ball position and the MegaBall.  I did each white ball postion since usually the winning numbers are listed lowest to highest, and my logic was if you get the most common from each postion you should get common numbers that will hit if you tried.   
+I have included in this repository the code I wrote, and the bar graphs I generated for each white ball position and the MegaBall.  I did each white ball position since usually the winning numbers are listed lowest to highest, and my logic was if you get the most common from each position you should get common numbers that would hit if you tried.   
 
 Why am I doing this?
 Because I wanted to test my skills.  I also wanted an exercise to use GitHub and try to learn the process. 
 
-I know it's probably a stupid simple project, but I am proud that I was able to do this.  I would love to hear some feedbak on it and hopefully I will get better at this.
+I know it's probably a stupid simple project, but I am proud that I was able to do this.  I would love to hear some feedback on it and hopefully I will get better at this.
 
-I plan on trying also doing this project in SQLite in the near future.
+I plan on trying also doing this project in SQLite soon.
 
-Thank you for taking the time to see and read this.  
+Thank you for taking the time to see and read this.
+ 
